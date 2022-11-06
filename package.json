@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot-handler---v14",
+  "version": "1.0.0",
+  "description": "Discord Handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
