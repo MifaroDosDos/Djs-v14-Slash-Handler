@@ -24,6 +24,5 @@ Si usas Replit puedes crear un Secret, estableciendo el nombre del valor como TO
 - Uso de prefijo en los comandos.
 
 --- 
-# 🧧 ¡Visita nuestro servidor de Soporte, te ayudaremos a cualquier duda que tengas!
 
-[![ That Server | Ayuda ](https://media.discordapp.net/attachments/1014694432341229588/1029548488343683072/1663287795239.jpg?width=1024&height=245)](https://discord.gg/EC3dAK2VtG)
+¿Regresar? Probablemente...
